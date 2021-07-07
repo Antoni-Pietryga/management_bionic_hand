@@ -1,0 +1,50 @@
+{
+  "wristInputParams": {
+    "wristVerticalMovementAngle": -30,
+    "wristVerticalMovementDelay": 0,
+    "wristHorizontalMovementAngle": 0,
+    "wristHorizontalMovementDelay": 0,
+    "wristRotationalMovementAngle": 10,
+    "wristRotationalMovementDelay": 0
+  },
+  "thumbInputParams": {
+    "thumbCPAngle": 10,
+    "thumbCPDelay": 4000,
+    "thumbMCPAngle": 50,
+    "thumbMCPDelay": 4000,
+    "thumbPIPAngle": 30,
+    "thumbPIPDelay": 4000
+  },
+  "secondInputParams": {
+    "fingerMCPAngle": 50,
+    "fingerMCPDelay": 0,
+    "fingerPIPAngle": 30,
+    "fingerPIPDelay": 0,
+    "fingerDIPAngle": 10,
+    "fingerDIPDelay": 0
+  },
+  "thirdInputParams": {
+    "fingerMCPAngle": 50,
+    "fingerMCPDelay": 0,
+    "fingerPIPAngle": 30,
+    "fingerPIPDelay": 0,
+    "fingerDIPAngle": 10,
+    "fingerDIPDelay": 0
+  },
+  "fourthInputParams": {
+    "fingerMCPAngle": 50,
+    "fingerMCPDelay": 0,
+    "fingerPIPAngle": 30,
+    "fingerPIPDelay": 0,
+    "fingerDIPAngle": 10,
+    "fingerDIPDelay": 0
+  },
+  "fifthInputParams": {
+    "fingerMCPAngle": 50,
+    "fingerMCPDelay": 0,
+    "fingerPIPAngle": 30,
+    "fingerPIPDelay": 0,
+    "fingerDIPAngle": 10,
+    "fingerDIPDelay": 0
+  }
+}
